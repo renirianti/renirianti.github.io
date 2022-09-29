@@ -4,7 +4,7 @@
 
 ### Data Analytics 
 
-[Project 1 Title](/sample_page)
+[Project 1 Title](/ipynb/Topik_3_4_[Reni_Rianti_Prastiti].ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
