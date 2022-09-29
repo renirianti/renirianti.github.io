@@ -5,7 +5,7 @@
 ### Data Analytics 
 
 [Topic 3 4 Hands On Python 1](https://drive.google.com/file/d/1WX8JlC0A-43djZTw7l5JddDgiTwg_FS5/view?usp=sharing)
-<img src="images/Topic3_4.jpg?raw=true">
+<img src="images/Topic_3_4.png?raw=true">
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
