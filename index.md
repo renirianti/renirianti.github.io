@@ -1,19 +1,17 @@
-## Portfolio
+## Data Analytics
 
 ---
 
-### Data Analytics 
+### Assignment 
 
-[Topic 3 4 Hands On Python 1](https://drive.google.com/file/d/1WX8JlC0A-43djZTw7l5JddDgiTwg_FS5/view?usp=sharing)
-<img src="Topic_3_4.png?raw=true">
+[Hands On Python 1](https://drive.google.com/file/d/1WX8JlC0A-43djZTw7l5JddDgiTwg_FS5/view?usp=sharing)
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hands On Python 2](/pdf/sample_presentation.pdf)
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
