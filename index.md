@@ -36,11 +36,11 @@
 ---
 ### Final Project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Data Preparation](https://colab.research.google.com/drive/1xHi6_L5CUfz_iV1QXMM-QmiOhSQXDpjg?usp=sharing)
+- [Modelling and Evaluation](https://colab.research.google.com/drive/1grIGNaPVq2TA3oySmbTuXUpYwuE3Z4F7?usp=sharing)
+- [Business Insight](https://colab.research.google.com/drive/1rhzK57FGpRXsIm5qdYqjjzZ5foAtpV5e?usp=sharing)
+- [Deployment (Dashboard)](https://datastudio.google.com/reporting/7930494c-f194-4a8b-b941-95f20a51ee82)
+- [Presentation Slides](https://www.canva.com/design/DAFT828Yq9I/3ratata9_gre8Jckmxkv6g/edit utm_content=DAFT828Yq9I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ---
 
